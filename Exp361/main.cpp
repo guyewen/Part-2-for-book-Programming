@@ -1,4 +1,4 @@
-// Chapter 10, Exp 361, 10.7
+// Chapter 10, Exp 361-1, 10.7, read from files
 #include <iostream> // for cout & cin
 #include <vector> // to use vector
 #include <algorithm> // to use find()
