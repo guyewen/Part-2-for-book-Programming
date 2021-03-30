@@ -1,0 +1,12 @@
+Year 1999
+Month January
+day: 1 hour: 0 Temperature: 61.5
+day: 21 hour: 0 Temperature: 63.5
+Year 2000
+Month May
+day: 2 hour: 1 Temperature: 58
+Month December
+day: 1 hour: 1 Temperature: 68
+Year 2002
+Month October
+day: 2 hour: 13 Temperature: 77
